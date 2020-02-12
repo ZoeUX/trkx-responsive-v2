@@ -1,0 +1,34 @@
+// -----------------------------------------------------------------------------
+// This file contains all application-wide Sass variables.
+// -----------------------------------------------------------------------------
+
+$primary-font: 'Muli', sans-serif !default;
+
+// Font Weights
+$lite: 300;
+$reg: 400;
+$med: 500;
+$sbold: 600;
+$bold: 700;
+$xbold: 800;
+
+//Text Transforms
+$upper: uppercase;
+
+
+$light-text: #ffffff;
+$dark-text: #000000;
+
+$desk-h1: 68px;
+$desk-h2: 40px;
+$desk-h3: 32px;
+$desk-h4: 24px;
+$desk-h5: 20px;
+$desk-p: 19px;
+
+$tab-h1: 50px;
+$tab-h2: 32px;
+$tab-h3: 24px;
+$tab-h4: 20px;
+$tab-h5: 10px;
+$tab-p: 19px;

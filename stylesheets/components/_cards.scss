@@ -1,0 +1,61 @@
+
+.card {
+  display: flex;
+  justify-content: center;
+  background-color: white;
+  height: 300px;
+  width: 500px;
+  border-radius: 10px;
+  margin: 0;
+  .col-1 {
+    margin: 10%;
+  }
+  h3, p {
+    color: black;
+    text-transform: capitalize;
+    margin: 0;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .card {
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    height: 250px;
+    width: 250px;
+    border-radius: 10px;
+    margin: 0;
+    .col-1 {
+      margin: 10%;
+    }
+    h3, p {
+      color: black;
+      text-transform: capitalize;
+      margin: 0;
+    }
+  }
+}
+
+
+@media screen and (max-width: 425px) {
+  .card {
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    height: 200px;
+    width: 340px;
+    border-radius: 10px;
+    margin: 0 0 40px;
+
+    .col-1 {
+      margin: 5%;
+      height: 170px;
+    }
+    h3, p {
+      color: black;
+      text-transform: capitalize;
+      margin: 0;
+    }
+  }
+}
