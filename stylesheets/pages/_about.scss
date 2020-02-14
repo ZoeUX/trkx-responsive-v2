@@ -1,0 +1,610 @@
+
+
+main {
+  section {
+    height: 100%;
+  }
+  .hide-mobile {
+    display: block;
+  }
+  .show-mobile {
+    display: none;
+  }
+  #historySec {
+    height: 40vh;
+    position: relative;
+    h2 {
+      width: 80%;
+      height: 100%;
+      text-align: center;
+      margin: auto;
+      padding-top: 80px;
+      color: $dark-text;
+    }
+  }
+  #missionSec {
+    background-color: #A83F3E;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    #special-text {
+      width: 300px;
+    }
+    h1, h4 {
+      width: 50%;
+      margin: auto;
+      color: #FFFFFF;
+    }
+    .col-3 {
+      li img {
+        width: 50px;
+        vertical-align: middle; /* | top | bottom */
+        margin-right: 10px;
+        margin-left: 20px;
+      }
+      li h4 {
+        display: inline-block;
+        vertical-align: middle;
+        font-weight: $tab-h4;
+        text-align: left;
+        b {
+          text-decoration: underline;
+        }
+      }
+    }
+  }
+  #growthSec {
+    background-color: #A83F3E;
+  }
+  #relySec {
+   h1, h3 {
+    color: $light-text;
+  }
+  h1 {
+    margin-top: 30px;
+    margin-bottom: 40px;
+  }
+  .col-3 {
+    height: 100%;
+    img {
+      width: 200px;
+    }
+    #img-1 {
+      background-color: #4B6F92;
+      padding-top: 160px;
+      z-index: 20;
+      clip-path: polygon(85% 0, 100% 50%, 85% 100%, 0 100%, 0 0);
+    }
+    #img-2 {
+      background-color: #446585;
+      margin-left: -75px;
+      margin-right: -65px;
+      z-index: 10;
+      clip-path: polygon(85% 0, 100% 50%, 85% 100%, 0 100%, 0 0);
+    }
+    #img-3 {
+      padding-top: 160px;
+      margin-left: -35px;
+      background-color: #4B6F92;
+    }
+  }
+}
+  #valuesSec {
+  background-color: #A83F3E;
+  h1 {
+    font-size: $tab-h1;
+  }
+  h4 {
+    font-weight: $bold;
+  }
+  #infographic {
+    width: 450px;
+    margin: auto;
+  }
+  .col-2 {
+    margin-bottom: 80px;
+    margin-top: 50px;
+    .col-1 {
+      text-align: left;
+      width: 500px;
+      margin-left: 100px;
+      h4, p {
+        margin: 0;
+      }
+      p {
+        margin-bottom: 20px;
+      }
+      h4 {
+        text-decoration: underline;
+        padding-bottom: 5px;
+      }
+    }
+  }
+}
+  #growthSec {
+  background-color: #FFFFFF;
+  h1, h2 {
+    color: $dark-text;
+    width: 80%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    color: $dark-text;
+  }
+  h1 {
+    margin-bottom: 0;
+    margin-top: 30px;
+    }
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  main {
+    section {
+      height: 100%;
+    }
+    #historySec {
+      height: 20vh;
+      z-index: 20;
+      h2 {
+        width: 80%;
+        text-align: center;
+        font-size: $tab-h4;
+        margin: 0 auto;
+        padding-top: 30px;
+        padding-bottom: 30px;
+        color: $dark-text;
+      }
+    }
+    #missionSec {
+      background-color: #A83F3E;
+      padding-top: 40px;
+      padding-bottom: 40px;
+      #special-text {
+        width: 250px;
+      }
+      h1, h4 {
+        width: 100%;
+        margin: auto;
+        color: #FFFFFF;
+      }
+      h4 {
+        width: 80%;
+      }
+      .col-3 {
+        width: 100%;
+        grid-template-columns: 1fr 1fr 1fr;
+        li img {
+          width: 40px;
+          vertical-align: middle; /* | top | bottom */
+          margin-right: 5px;
+          margin-left: 10px;
+        }
+        li h4 {
+          display: inline-block;
+          vertical-align: middle;
+          font-size: $tab-h3;
+          text-align: left;
+          width: 200px;
+          b {
+            text-decoration: underline;
+          }
+        }
+      }
+    }
+    #relySec {
+      h1, h3 {
+        color: $light-text;
+      }
+      h1 {
+        .hide-desk {
+          display: none;
+        }
+        margin-top: 30px;
+        margin-bottom: 40px;
+      }
+      h3 {
+        font-size: $tab-h3;
+      }
+      .col-3 {
+        height: 100%;
+        img {
+          width: 150px;
+        }
+        #img-1 {
+          background-color: #4B6F92;
+          padding-top: 130px;
+          z-index: 20;
+          clip-path: polygon(85% 0, 100% 50%, 85% 100%, 0 100%, 0 0);
+        }
+        #img-2 {
+          background-color: #446585;
+          margin-left: -65px;
+          margin-right: -30px;
+          z-index: 10;
+          clip-path: polygon(85% 0, 100% 50%, 85% 100%, 0 100%, 0 0);
+        }
+        #img-3 {
+          padding-top: 130px;
+          margin-left: -35px;
+          background-color: #4B6F92;
+        }
+      }
+    }
+    #valuesSec {
+         background-color: #A83F3E;
+         h1 {
+           font-size: $desk-h2;
+         }
+         h4 {
+           font-weight: $bold;
+         }
+         #infographic {
+           width: 400px;
+           margin: auto;
+         }
+         .col-2 {
+           margin-bottom: 80px;
+           margin-top: 50px;
+           .col-1 {
+             text-align: left;
+             width: 400px;
+             margin-left: 80px;
+             h4, p {
+               margin: 0;
+             }
+             p {
+               margin-bottom: 20px;
+             }
+             h4 {
+               text-decoration: underline;
+               padding-bottom: 5px;
+             }
+           }
+         }
+       }
+    #growthSec {
+      background-color: #FFFFFF;
+      h1, h2 {
+        color: $dark-text;
+        width: 80%;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        color: $dark-text;
+      }
+      h1 {
+        font-size: $desk-h2;
+        margin-bottom: 0;
+        margin-top: 30px;
+      }
+      h2 {
+        font-size: $tab-p;
+        width: 70%;
+        margin-bottom: 40px;
+      }
+    }
+    .show-mobile {
+      display: none;
+    }
+  }
+}
+
+@media screen and (max-width: 768px) {
+  main {
+    section {
+      height: 100%;
+    }
+    #historySec {
+      height: 20vh;
+      z-index: 20;
+      h2 {
+        width: 80%;
+        text-align: center;
+        font-size: $tab-h4;
+        margin: 0 auto;
+        padding-top: 30px;
+        padding-bottom: 30px;
+        color: $dark-text;
+
+      }
+    }
+    #missionSec {
+      background-color: #A83F3E;
+      padding-top: 40px;
+      padding-bottom: 40px;
+        #special-text {
+          width: 200px;
+        }
+      h1, h4 {
+        width: 100%;
+        margin: auto;
+        color: #FFFFFF;
+      }
+      h4 {
+        width: 80%;
+      }
+      .col-3 {
+        width: 100%;
+        grid-template-columns: 1fr 1fr 1fr;
+        li img {
+          width: 40px;
+          vertical-align: middle; /* | top | bottom */
+          margin-right: 5px;
+          margin-left: 10px;
+        }
+        li h4 {
+          display: inline-block;
+          vertical-align: middle;
+          font-size: $tab-h4;
+          text-align: left;
+          width: 180px;
+          b {
+            text-decoration: underline;
+          }
+        }
+      }
+    }
+    #relySec {
+      h1, h3 {
+        color: $light-text;
+      }
+      h1 {
+        .hide-desk {
+          display: none;
+        }
+        margin-top: 30px;
+        margin-bottom: 40px;
+      }
+      h3 {
+        font-size: $tab-h4;
+
+      }
+      .col-3 {
+        height: 100%;
+        img {
+          width: 150px;
+        }
+        #img-1 {
+          background-color: #4B6F92;
+          padding-top: 130px;
+          z-index: 20;
+          clip-path: polygon(85% 0, 100% 50%, 85% 100%, 0 100%, 0 0);
+        }
+        #img-2 {
+          background-color: #446585;
+          margin-left: -65px;
+          margin-right: -20px;
+          z-index: 10;
+          clip-path: polygon(85% 0, 100% 50%, 85% 100%, 0 100%, 0 0);
+        }
+        #img-3 {
+          padding-top: 130px;
+          margin-left: -35px;
+          background-color: #4B6F92;
+        }
+      }
+    }
+    #valuesSec {
+      background-color: #A83F3E;
+      h1 {
+        font-size: $tab-h1;
+      }
+      h4 {
+        font-weight: $bold;
+      }
+      #infographic {
+        width: 450px;
+        margin: auto;
+      }
+      .col-2 {
+        margin-bottom: 80px;
+        margin-top: 50px;
+        .col-1 {
+          text-align: left;
+          width: 80%;
+          h4, p {
+            margin: 0;
+          }
+          p {
+            margin-bottom: 20px;
+          }
+          h4 {
+            text-decoration: underline;
+            padding-bottom: 5px;
+          }
+        }
+      }
+    }
+    #growthSec {
+      background-color: #FFFFFF;
+      h1, h2 {
+        color: $dark-text;
+        width: 80%;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        color: $dark-text;
+      }
+      h1 {
+        font-size: $desk-h2;
+        margin-bottom: 0;
+        margin-top: 30px;
+      }
+      h2 {
+        font-size: $tab-p;
+        width: 70%;
+        margin-bottom: 40px;
+      }
+    }
+    .show-mobile {
+      display: none;
+    }
+  }
+}
+
+@media screen and (max-width: 425px) {
+  main {
+    section {
+      height: 100%;
+    }
+    #historySec {
+      height: 20vh;
+      h2 {
+        width: 90%;
+        text-align: center;
+        font-size: $tab-h4;
+        margin: auto;
+        padding-top: 0px;
+        color: $dark-text;
+      }
+    }
+    #missionSec {
+      background-color: #A83F3E;
+      padding-top: 40px;
+      padding-bottom: 40px;
+      #special-text {
+        width: 340px;
+      }
+      h1, h4 {
+        width: 100%;
+        margin: auto;
+        color: #FFFFFF;
+      }
+      .col-3 {
+        width: 100%;
+        grid-template-columns: 1fr;
+        li img {
+          width: 40px;
+          vertical-align: middle; /* | top | bottom */
+          margin-right: 5px;
+          margin-left: 10px;
+        }
+        li h4 {
+          display: inline-block;
+          vertical-align: middle;
+          font-size: $tab-h3;
+          text-align: left;
+          width: 340px;
+          b {
+            text-decoration: underline;
+          }
+        }
+      }
+    }
+    #relySec {
+      .show-mobile {
+        display: block;
+        background-color: #4B6F92;
+        h1 {
+          padding-top: 30px;
+          padding-bottom: 30px;
+          margin-top: 0;
+          margin-bottom: 0;
+        }
+      }
+      .hide-mobile {
+        display: none;
+      }
+      h1, h3 {
+        color: $light-text;
+      }
+      h1 {
+        margin-top: 15px;
+        margin-bottom: 20px;
+        z-index: 30;
+        font-size: $tab-h2;
+      }
+      h3 {
+        font-size: $tab-p;
+      }
+      .col-3 {
+        height: 100%;
+        width: 100%;
+        grid-template-columns: 1fr 1fr 1fr;
+        img {
+          width: 80px;
+        }
+        #img-1 {
+          padding-top: 0;
+          background-color: #4B6F92;
+          clip-path: none;
+        }
+        #img-2 {
+          background-color: #4B6F92;
+          margin-left: 0;
+          margin-right: 0;
+          clip-path: none;
+        }
+        #img-3 {
+          padding-top: 0;
+          margin-left: 0;
+          background-color: #4B6F92;
+        }
+      }
+    }
+    #valuesSec {
+      background-color: #A83F3E;
+      .show-mobile {
+        display: block;
+        img {
+          margin-bottom: 30px;
+        }
+      }
+      .hide-mobile {
+        display: none;
+      }
+      h1 {
+        font-size: $tab-h2;
+      }
+      h4 {
+        font-weight: $bold;
+        font-size: $tab-h3;
+      }
+      #infographic {
+        width: 300px;
+        margin: auto;
+      }
+      .col-2 {
+        margin-bottom: 40px;
+        margin-top: 25px;
+        width: 100%;
+        grid-template-columns: 1fr;
+        .col-1 {
+          text-align: left;
+          width: 300px;
+          margin-left: auto;
+          margin-right: auto;
+          h4, p {
+            margin: 0;
+          }
+          p {
+            margin-bottom: 20px;
+          }
+          h4 {
+            text-decoration: underline;
+            padding-bottom: 5px;
+          }
+        }
+      }
+    }
+    #growthSec {
+      background-color: #FFFFFF;
+      h1, h2 {
+        color: $dark-text;
+        width: 80%;
+        text-align: left;
+        margin-left: auto;
+        margin-right: auto;
+        color: $dark-text;
+      }
+      h1 {
+        font-size: $tab-h2;
+        margin-bottom: 0;
+        margin-top: 30px;
+      }
+      h2 {
+        font-size: $tab-p;
+      }
+    }
+  }
+}

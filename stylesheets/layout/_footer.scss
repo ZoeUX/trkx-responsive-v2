@@ -13,12 +13,19 @@
     margin-bottom: 10px;
   }
   p {
-    font-size: 14px;
+    font-size: 15px;
+    font-weight: $reg;
   }
   .col-3 {
     text-align: center;
     width: 80%;
     margin: auto;
+    a {
+      :hover {
+        color: #A83F3E;
+        transition: 3ms ease-in;
+      }
+    }
   }
   #footer-logo img {
     width: 150px;

@@ -32,3 +32,20 @@ $tab-h3: 24px;
 $tab-h4: 20px;
 $tab-h5: 10px;
 $tab-p: 19px;
+
+
+//BURGER MENU STYLES//
+$line-color: black;
+$line-hover-color: black;
+$line-color-w: white;
+$line-hover-color-w: white;
+$line-width: 2em;
+$line-spacing: 1em;
+$line-thickness: .1em;
+
+//BURGER ANIMATION RULES//
+$transition-time: 0.3s;
+$rotation: 45deg;
+$translateY: ($line-spacing / 2);
+$translateX: 0;
+

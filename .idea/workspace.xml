@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b006877e-f3a6-49e2-8795-035d06b40426" name="Default Changelist" comment="" />
+    <list default="true" id="b006877e-f3a6-49e2-8795-035d06b40426" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TOS.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TRKX-CCPA-notice-.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TRKX-privacy-policy-.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/fast-img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/handshake-trkx.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/network-trkx.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stylesheets/pages/_register.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/main.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stylesheets/abstracts/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheets/abstracts/_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stylesheets/components/_buttons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheets/components/_buttons.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stylesheets/components/_cards.scss" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheets/components/_cards.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stylesheets/layout/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheets/layout/_footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stylesheets/layout/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheets/layout/_header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stylesheets/pages/__pages-dir.scss" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheets/pages/__pages-dir.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stylesheets/pages/_about.scss" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheets/pages/_about.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stylesheets/pages/_home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheets/pages/_home.scss" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +40,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XY2LycvGYCf4CcuYjlXSZ2SEfM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -26,12 +54,13 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="NewWatcherDialog.advanced.open" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/stylesheets/components" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -41,8 +70,8 @@
       <recent name="$PROJECT_DIR$/stylesheets/abstracts" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$/stylesheets/layout" />
       <recent name="$PROJECT_DIR$/stylesheets/base" />
       <recent name="$PROJECT_DIR$/stylesheets" />
@@ -75,7 +104,10 @@
       <workItem from="1581271512780" duration="36856000" />
       <workItem from="1581353157138" duration="12037000" />
       <workItem from="1581454568933" duration="14825000" />
-      <workItem from="1581531378929" duration="14927000" />
+      <workItem from="1581531378929" duration="45823000" />
+      <workItem from="1581654048771" duration="4459000" />
+      <workItem from="1581658744403" duration="298000" />
+      <workItem from="1581659048702" duration="5724000" />
     </task>
     <servers />
   </component>
@@ -99,6 +131,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="201" y="218" width="782" height="619" key="EditFileWatcherDialog/1440.-94.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1581209806155" />
+    <state x="1909" y="85" key="SettingsEditor" timestamp="1581652213256">
+      <screen x="1440" y="-94" width="1920" height="1080" />
+    </state>
+    <state x="1909" y="85" key="SettingsEditor/1440.-94.1920.1080/0.0.1440.900@1440.-94.1920.1080" timestamp="1581652213256" />
     <state x="1540" y="6" width="1720" height="880" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1581478242908">
       <screen x="1440" y="-94" width="1920" height="1080" />
     </state>
@@ -107,19 +143,19 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="250" y="56" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1440.-71.1920.1003/0.23.1440.877@0.23.1440.877" timestamp="1581219087105" />
-    <state x="1953" y="-94" width="1407" height="1080" key="find.popup" timestamp="1581542034817">
+    <state x="1953" y="-94" width="1407" height="1080" key="find.popup" timestamp="1581655905951">
       <screen x="1440" y="-94" width="1920" height="1080" />
     </state>
     <state x="196" y="150" width="791" height="568" key="find.popup/1440.-71.1920.1003/0.23.1440.877@0.23.1440.877" timestamp="1581217547333" />
     <state x="1953" y="-71" width="1407" height="1003" key="find.popup/1440.-71.1920.1003/0.23.1440.877@1440.-71.1920.1003" timestamp="1581319740023" />
     <state x="258" y="23" width="1055" height="823" key="find.popup/1440.-71.1920.1057/0.23.1440.823@1440.-71.1920.1057" timestamp="1581317139216" />
     <state x="196" y="130" width="791" height="583" key="find.popup/1440.-94.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1581285069286" />
-    <state x="1953" y="-94" width="1407" height="1080" key="find.popup/1440.-94.1920.1080/0.0.1440.900@1440.-94.1920.1080" timestamp="1581542034817" />
-    <state x="1953" y="141" width="894" height="813" key="search.everywhere.popup" timestamp="1581477902459">
+    <state x="1953" y="-94" width="1407" height="1080" key="find.popup/1440.-94.1920.1080/0.0.1440.900@1440.-94.1920.1080" timestamp="1581655905951" />
+    <state x="1953" y="141" width="894" height="813" key="search.everywhere.popup" timestamp="1581652210742">
       <screen x="1440" y="-94" width="1920" height="1080" />
     </state>
     <state x="385" y="202" width="670" height="619" key="search.everywhere.popup/0.23.1440.823@0.23.1440.823" timestamp="1581456132238" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/1440.-94.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1581211248013" />
-    <state x="1953" y="141" width="894" height="813" key="search.everywhere.popup/1440.-94.1920.1080/0.0.1440.900@1440.-94.1920.1080" timestamp="1581477902459" />
+    <state x="1953" y="141" width="894" height="813" key="search.everywhere.popup/1440.-94.1920.1080/0.0.1440.900@1440.-94.1920.1080" timestamp="1581652210742" />
   </component>
 </project>
