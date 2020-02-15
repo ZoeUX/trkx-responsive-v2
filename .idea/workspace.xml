@@ -2,29 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b006877e-f3a6-49e2-8795-035d06b40426" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TOS.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TRKX-CCPA-notice-.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TRKX-privacy-policy-.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/fast-img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/handshake-trkx.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/network-trkx.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stylesheets/pages/_register.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Agent Policies &amp; Procedures Version 5.0.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Service Agreement (TRKX).docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TRKX Privacy Policy (1).docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TOS.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TRKX-privacy-policy-.pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/main.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stylesheets/abstracts/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheets/abstracts/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stylesheets/components/_buttons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheets/components/_buttons.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stylesheets/components/_cards.scss" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheets/components/_cards.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stylesheets/layout/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheets/layout/_footer.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stylesheets/layout/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheets/layout/_header.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stylesheets/pages/__pages-dir.scss" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheets/pages/__pages-dir.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stylesheets/pages/_about.scss" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheets/pages/_about.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stylesheets/pages/_home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheets/pages/_home.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/register.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,18 +49,18 @@
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/stylesheets/components" />
-      <recent name="$PROJECT_DIR$/stylesheets/layout" />
-      <recent name="$PROJECT_DIR$/stylesheets/base" />
-      <recent name="$PROJECT_DIR$/stylesheets/abstracts" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$/stylesheets/layout" />
       <recent name="$PROJECT_DIR$/stylesheets/base" />
       <recent name="$PROJECT_DIR$/stylesheets" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/stylesheets/components" />
+      <recent name="$PROJECT_DIR$/stylesheets/layout" />
+      <recent name="$PROJECT_DIR$/stylesheets/base" />
+      <recent name="$PROJECT_DIR$/stylesheets/abstracts" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -107,7 +93,8 @@
       <workItem from="1581531378929" duration="45823000" />
       <workItem from="1581654048771" duration="4459000" />
       <workItem from="1581658744403" duration="298000" />
-      <workItem from="1581659048702" duration="5724000" />
+      <workItem from="1581659048702" duration="6151000" />
+      <workItem from="1581809844543" duration="507000" />
     </task>
     <servers />
   </component>
@@ -123,10 +110,10 @@
     </state>
     <state x="322" y="100" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.823@0.23.1440.823" timestamp="1581455692304" />
     <state x="1869" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog/1440.-71.1920.1003/0.23.1440.877@1440.-71.1920.1003" timestamp="1581320021976" />
-    <state x="260" y="188" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581363203021">
+    <state x="260" y="188" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581810441143">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state x="260" y="188" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.823@0.23.1440.823" timestamp="1581363203021" />
+    <state x="260" y="188" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.823@0.23.1440.823" timestamp="1581810441143" />
     <state x="201" y="218" width="782" height="619" key="EditFileWatcherDialog" timestamp="1581209806155">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
