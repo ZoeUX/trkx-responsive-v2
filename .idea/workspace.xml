@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b006877e-f3a6-49e2-8795-035d06b40426" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Agent Policies &amp; Procedures Version 5.0.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Service Agreement (TRKX).docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TRKX Privacy Policy (1).docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TOS.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TRKX-privacy-policy-.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/register.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +86,7 @@
       <workItem from="1581654048771" duration="4459000" />
       <workItem from="1581658744403" duration="298000" />
       <workItem from="1581659048702" duration="6151000" />
-      <workItem from="1581809844543" duration="507000" />
+      <workItem from="1581809844543" duration="996000" />
     </task>
     <servers />
   </component>
