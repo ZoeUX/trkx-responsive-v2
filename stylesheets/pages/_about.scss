@@ -128,7 +128,6 @@ main {
     text-align: center;
     margin-left: auto;
     margin-right: auto;
-    color: $dark-text;
   }
   h1 {
     margin-bottom: 0;
@@ -295,7 +294,7 @@ main {
       height: 100%;
     }
     #historySec {
-      height: 20vh;
+      height: 25vh;
       z-index: 20;
       h2 {
         width: 80%;
@@ -448,13 +447,13 @@ main {
       height: 100%;
     }
     #historySec {
-      height: 20vh;
+      height: 35vh;
       h2 {
         width: 90%;
         text-align: center;
         font-size: $tab-h4;
         margin: auto;
-        padding-top: 0px;
+        padding-top: 30px;
         color: $dark-text;
       }
     }

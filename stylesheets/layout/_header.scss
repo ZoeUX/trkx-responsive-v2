@@ -135,9 +135,28 @@ header {
     top: 10%;
   }
 }
+
 @media screen and (min-width: 1024px) {
   #nav-links {
     width: 40%;
+  }
+  #about-header {
+    height: 50vh;
+    img {
+      margin: -120px;
+    }
+    #about-intro {
+      h1 {
+        margin-bottom: 5px;
+      }
+      text-align: left;
+      width: 80vw;
+      height: 300px;
+      display: block;
+      position: absolute;
+      left: 10%;
+      top: 5%;
+    }
   }
 }
 
@@ -237,6 +256,7 @@ header {
           margin: 10px 10px 5px;
         }
       }
+
       #intro {
         text-align: left;
         margin-bottom: 40px;
@@ -274,7 +294,7 @@ header {
       }
       text-align: left;
       width: 550px;
-      top: 30%;
+      top: 10%;
       height: 300px;
       display: block;
       h4 {

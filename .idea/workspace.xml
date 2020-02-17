@@ -3,6 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="b006877e-f3a6-49e2-8795-035d06b40426" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/trkx-mockup2020.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/main.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stylesheets/layout/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheets/layout/_header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stylesheets/pages/_about.scss" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheets/pages/_about.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stylesheets/pages/_home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheets/pages/_home.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +94,12 @@
       <workItem from="1581654048771" duration="4459000" />
       <workItem from="1581658744403" duration="298000" />
       <workItem from="1581659048702" duration="6151000" />
-      <workItem from="1581809844543" duration="996000" />
+      <workItem from="1581809844543" duration="1391000" />
+      <workItem from="1581815515194" duration="47000" />
+      <workItem from="1581815766742" duration="525000" />
+      <workItem from="1581967126691" duration="13000" />
+      <workItem from="1581968047288" duration="5000" />
+      <workItem from="1581968060060" duration="1842000" />
     </task>
     <servers />
   </component>
@@ -102,10 +115,11 @@
     </state>
     <state x="322" y="100" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.823@0.23.1440.823" timestamp="1581455692304" />
     <state x="1869" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog/1440.-71.1920.1003/0.23.1440.877@1440.-71.1920.1003" timestamp="1581320021976" />
-    <state x="260" y="188" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581810441143">
-      <screen x="0" y="23" width="1440" height="823" />
+    <state x="1787" y="123" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581969902377">
+      <screen x="1440" y="-94" width="1920" height="1080" />
     </state>
     <state x="260" y="188" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.823@0.23.1440.823" timestamp="1581810441143" />
+    <state x="1787" y="123" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1440.-94.1920.1080/0.0.1440.900@1440.-94.1920.1080" timestamp="1581969902377" />
     <state x="201" y="218" width="782" height="619" key="EditFileWatcherDialog" timestamp="1581209806155">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -122,19 +136,19 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="250" y="56" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1440.-71.1920.1003/0.23.1440.877@0.23.1440.877" timestamp="1581219087105" />
-    <state x="1953" y="-94" width="1407" height="1080" key="find.popup" timestamp="1581655905951">
+    <state x="1953" y="-94" width="1407" height="1080" key="find.popup" timestamp="1581969088565">
       <screen x="1440" y="-94" width="1920" height="1080" />
     </state>
     <state x="196" y="150" width="791" height="568" key="find.popup/1440.-71.1920.1003/0.23.1440.877@0.23.1440.877" timestamp="1581217547333" />
     <state x="1953" y="-71" width="1407" height="1003" key="find.popup/1440.-71.1920.1003/0.23.1440.877@1440.-71.1920.1003" timestamp="1581319740023" />
     <state x="258" y="23" width="1055" height="823" key="find.popup/1440.-71.1920.1057/0.23.1440.823@1440.-71.1920.1057" timestamp="1581317139216" />
     <state x="196" y="130" width="791" height="583" key="find.popup/1440.-94.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1581285069286" />
-    <state x="1953" y="-94" width="1407" height="1080" key="find.popup/1440.-94.1920.1080/0.0.1440.900@1440.-94.1920.1080" timestamp="1581655905951" />
-    <state x="1953" y="141" width="894" height="813" key="search.everywhere.popup" timestamp="1581652210742">
+    <state x="1953" y="-94" width="1407" height="1080" key="find.popup/1440.-94.1920.1080/0.0.1440.900@1440.-94.1920.1080" timestamp="1581969088565" />
+    <state x="1953" y="141" width="894" height="813" key="search.everywhere.popup" timestamp="1581968766099">
       <screen x="1440" y="-94" width="1920" height="1080" />
     </state>
     <state x="385" y="202" width="670" height="619" key="search.everywhere.popup/0.23.1440.823@0.23.1440.823" timestamp="1581456132238" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/1440.-94.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1581211248013" />
-    <state x="1953" y="141" width="894" height="813" key="search.everywhere.popup/1440.-94.1920.1080/0.0.1440.900@1440.-94.1920.1080" timestamp="1581652210742" />
+    <state x="1953" y="141" width="894" height="813" key="search.everywhere.popup/1440.-94.1920.1080/0.0.1440.900@1440.-94.1920.1080" timestamp="1581968766099" />
   </component>
 </project>
